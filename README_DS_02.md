@@ -9,6 +9,7 @@ The Titanic dataset is a classic dataset used in data science and machine learni
 
 # Dataset
 The Titanic dataset contains information about the passengers who were aboard the Titanic, including their age, gender, class, and whether they survived the disaster. 
+https://github.com/datasciencedojo/datasets/blob/master/titanic.csv
 
 
 
